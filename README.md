@@ -1,5 +1,5 @@
 # Deep-Learning-Lab
-##According to Syllabus
+## According to Syllabus
 1. Familiarize basic python packages for deep learning such as Keras,
 Tensorflow etc.
 
@@ -27,7 +27,7 @@ set.**
 8. Analyse and visualize the performance change while using LSTM
 and GRU instead of simple RNN.**
 
-##According to my record
+## According to my Record
 1. Outlier detection
 2. Linear Classification
 3. Image classification on MNIST (Any pre-built dataset)
